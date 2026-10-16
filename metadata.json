@@ -1,0 +1,6 @@
+{
+  "name": "MALICE: The Asylum - 3D Horror Survival",
+  "description": "A terrifying 3D survival horror game for browser and mobile. Navigate a dark abandoned asylum, elude the stalking shade, collect keys and escape alive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
